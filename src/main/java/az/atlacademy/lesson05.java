@@ -1,2 +1,6 @@
-package az.atlacademy;public class lesson05 {
+package az.atlacademy;
+
+public class lesson05 {
+
+
 }
